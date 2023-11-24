@@ -1,4 +1,4 @@
-resource "aws_iam_user" "iam_user" {
-  name = "iam_user_jenkins"
+resource "aws_iam_user" "aws_iam" {
+  name = "test_iam"
 }
 
